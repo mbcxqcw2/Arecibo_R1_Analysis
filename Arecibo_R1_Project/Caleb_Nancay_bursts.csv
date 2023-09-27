@@ -1,0 +1,6 @@
+Burst,Arrival time,MeerKAT S/N,MeerKAT Width,MeerKAT Fluence,MeerKAT Wait time
+,(Topocentric MJD),,(ms),(Jy ms),(s)
+8,58736.23518,88.7,2.6,0.87(9),2040.95
+9,58736.24062,45.6,2.3,0.42(4),470.6
+10,58736.24786,32.7,4.2,0.40(4),624.95
+11,58736.25422,208.8,10.7,4.13(41),549.4

@@ -1,0 +1,2 @@
+Telescope,Obs ID/,Start Time,End Time,Exposure Time
+Arecibo,P3054,2017-01-12 01:46:27,2017 Jan 12 03:30:57,6270

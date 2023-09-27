@@ -1,0 +1,3 @@
+Date Start Time , Telescope/ , Obs. Length , No
+2016-01-01 04:15:37, AO/L-wide , 46 , 0
+2016-01-31 00:28:44, AO/L-wide , 6362 , 0
